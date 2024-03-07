@@ -9,7 +9,7 @@ const Header = () => {
       <div className="relative">
         <img
           className="w-full h-full  md:absolute md:top-1/2 md:-translate-y-1/2 md:w-[130%] md:max-w-none "
-          src="/images/porfolio_pic1.jpg"
+          src="/images/portfolio_pic1.jpg"
           alt=""
         />
       </div>
